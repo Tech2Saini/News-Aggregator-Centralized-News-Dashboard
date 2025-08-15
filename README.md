@@ -48,14 +48,14 @@ news_aggregator/
 
 ## Installation Process
 #### Clone the repository
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/tech2saini/news-aggregator.git
 cd news-aggregator
 
 #### Create and activate a virtual environment
 python -m venv venv
-#### On Linux/Mac
+### On Linux/Mac
 source venv/bin/activate
-#### On Windows
+### On Windows
 venv\Scripts\activate
 
 #### Install dependencies
